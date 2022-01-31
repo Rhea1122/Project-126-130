@@ -1,0 +1,29 @@
+.heading
+{
+   background-color:cadetblue;
+   color:azure; 
+   font-variant: small-caps; 
+   width: 100%;
+   margin: 0;
+   font-size: 23px; 
+    
+} 
+.note 
+{ 
+    font-size: 15px; 
+    font-weight: 500; 
+    color: blanchedalmond;
+
+} 
+body 
+{ 
+    background-size: cover; 
+} 
+canvas
+{
+   border: 5px;
+   border-style: groove;
+   border-radius: 20px;
+   border-color:#B76E79;
+   box-shadow: 3px 3px 3px darkblue;
+}
